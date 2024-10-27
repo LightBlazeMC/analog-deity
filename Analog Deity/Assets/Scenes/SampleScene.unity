@@ -1570,6 +1570,7 @@ MonoBehaviour:
   xp: 0
   xpText: {fileID: 796116415}
   LivesText: {fileID: 1419037243}
+  DeathScreen: {fileID: 0}
 --- !u!4 &932244533
 Transform:
   m_ObjectHideFlags: 0
